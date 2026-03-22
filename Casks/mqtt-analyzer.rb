@@ -1,8 +1,8 @@
 cask "mqtt-analyzer" do
-  version "3.1.1"
-  sha256 "3cef406bd4660be09943b4a65b516f1cd1cb704a3b1b3cf6c3857132c13c6d01"
+  version "3.1.2"
+  sha256 "e993b238ddfd35d8a547cb3e01b8abcfade6eb43436a84ea9a15ac4c7ba1efd9"
 
-  url "https://github.com/philipparndt/mqtt-analyzer/releases/download/3.1.1/MQTTAnalyzer-3.1.1.zip"
+  url "https://github.com/philipparndt/mqtt-analyzer/releases/download/v3.1.2/MQTTAnalyzer-v3.1.2.zip"
   name "MQTT Analyzer"
   desc "MQTT client for monitoring and debugging MQTT brokers"
   homepage "https://github.com/philipparndt/mqtt-analyzer"
