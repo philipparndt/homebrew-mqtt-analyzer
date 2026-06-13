@@ -7,7 +7,7 @@ cask "mqtt-analyzer" do
   desc "MQTT client for monitoring and debugging MQTT brokers"
   homepage "https://github.com/philipparndt/mqtt-analyzer"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "MQTTAnalyzer.app"
 
